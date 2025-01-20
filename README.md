@@ -96,9 +96,3 @@ The app has a clean layout with multiple columns to display:
 ### **Contributions**
 Feel free to fork the repository, make changes, and create pull requests. Contributions to improve the app or add more visualizations are always welcome.
 
-### **License**
-This project is open-source and available under the MIT License.
-
----
-
-Let me know if you need any more modifications or explanations for the README! 😊
